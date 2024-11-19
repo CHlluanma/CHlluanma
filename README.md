@@ -1,5 +1,5 @@
 
-![CHlluanma's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CHlluanma&show_icons=true&count_private=true&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHlluanma&layout=compact)](https://github.com/CHlluanma/)
 
 <!---
 - 👋 Hi, I’m @CHlluanma
@@ -9,6 +9,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![CHlluanma's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CHlluanma&show_icons=true&count_private=true&theme=gotham)
 
 
 CHlluanma/CHlluanma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
